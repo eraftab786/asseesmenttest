@@ -1,0 +1,52 @@
+.list-group{
+        margin-top: 0.5rem;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+      }
+
+
+.list-of-card{
+	width:100%;
+	display: flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	
+}
+
+.card-content{
+	width:90%;
+	margin-left:1rem;
+	font-size: 14px;
+}
+
+.icon-title{
+	text-align: center;
+	color:#5A5A5A;
+	font-weight: 500;
+	font-size:16px; 
+}
+
+.i-con>i{
+	color:rgb(15,188,113);
+	border: 3px solid rgb(15,188,113); 
+	font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 47%;  
+	
+}
+
+.option{
+	top:8%;
+	right:3%;
+}
+
+.list-content{
+	font-weight: normal;
+	font-size:14px; 
+}
+
+.modal-body span{
+	margin-left:80%;
+    top: 67%;
+    font-weight: normal;
+}
+
